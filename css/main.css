@@ -1,0 +1,166 @@
+body{
+  font-family: sans-serif;
+  position: relative;
+}
+header{
+  position: fixed;
+  background: pink;
+  width: 100%;
+  margin: 10px 10px 10px 0px;
+  }
+  .icon-search{
+    position: absolute;
+    top: 45px;
+    margin-left: 80px;
+  }
+
+  .linea{
+  text-decoration: underline;
+}
+.image-header{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.icon1 {
+  display:inline;
+  float: right;
+  top: 40px;
+  right: 246px;
+  padding: 8px;
+  }
+  .icon2 {
+    display:inline;
+    float: right;
+    top: 40px;
+    right: 246px;
+    padding: 8px;
+    }
+  .icon3 {
+    display: inline;
+    float: right;
+    top: 40px;
+    right: 246px;
+    padding: 8px;
+  }
+
+  .botton{
+    position: absolute;
+    width: 100vh;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    text-align: center;
+    left: 60px;
+    }
+ul{
+  float:left;
+  list-style: none;
+  padding:0;
+  margin:0px;
+  line-height: 40px;
+  overflow: auto;
+  border:5px 5px;
+  top: 50%;
+  transform: translateY(100%);
+  }
+
+.one {
+  width: 100px;
+  text-align: center;
+  float:left;
+  border: 5px;
+  margin:3px;
+  color:white;
+  background: #795548;
+  border-radius: 8px;
+}
+.two {
+  width: 100px;
+  text-align: center;
+  float:left;
+  border: 5px;
+  margin:3px;
+  color:white;
+  background: #e4b7a7;
+  border-radius: 8px;
+}
+.three {
+  width: 100px;
+  text-align: center;
+  float:left;
+  border: 5px;
+  margin:3px;
+  color:white;
+  background: #ea997c;
+  border-radius: 8px;
+}
+.for {
+  width: 100px;
+  text-align: center;
+  float:left;
+  border: 5px;
+  margin:3px;
+  color:white;
+  background: #a5654e;
+  border-radius: 8px;
+}
+.five {
+  width: 100px;
+  text-align: center;
+  float:left;
+  border: 5px;
+  margin:3px;
+  color:white;
+  background:#906252;
+  border-radius: 8px;
+}
+.six {
+  width: 100px;
+  text-align: center;
+  float:left;
+  border: 5px;
+  margin:3px;
+  color:white;
+  background: #ec8965;
+  border-radius: 8px;
+}
+.seven {
+  width: 100px;
+  text-align: center;
+  float:left;
+  border: 5px;
+  margin:3px;
+  color:white;
+  background: #6b4f45;
+  border-radius: 8px;
+}
+
+a{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+}
+a:hover{
+  background:brown;
+  color:#000;
+}
+
+.bloque1{
+  float: left;
+  margin: 5px;
+  margin-top: 150px;
+
+}
+.bloque2{
+  float:right;
+  margin: 5px;
+  margin-top: 150px;
+
+}
+.bloque3{
+  display: inline-block;
+  margin: 5px;
+}
