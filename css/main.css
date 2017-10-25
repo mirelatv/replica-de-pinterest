@@ -6,7 +6,7 @@ header{
   position: fixed;
   background: pink;
   width: 100%;
-  margin: 10px 10px 10px 0px;
+  margin: 0px 10px 10px 0px;
   }
   .icon-search{
     position: absolute;
@@ -148,19 +148,21 @@ a:hover{
   color:#000;
 }
 
-.bloque1{
-  float: left;
-  margin: 5px;
-  margin-top: 150px;
+.contenedor{
+ column-count: 3;
+  margin-top: 450px;
 
+  margin:15px auto;
 }
-.bloque2{
-  float:right;
-  margin: 5px;
-  margin-top: 150px;
+.elemento{
+  width: 100%;
+  background: white;
 
+  }
+.elemento p{
+  padding: 10px;
+  font-size:13px,
 }
-.bloque3{
-  display: inline-block;
-  margin: 5px;
+.elemento img{
+  width: 100%;
 }
